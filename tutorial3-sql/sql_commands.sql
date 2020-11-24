@@ -3,7 +3,7 @@ CREATE DATABASE IF NOT EXISTS sampledatabase;
 USE sampledatabase
 
 /* 2nd */
-DESCRIBE sampledatabase
+DESCRIBE covid
 
 /* 3rd */
 SELECT location, date, total_cases, total_deaths
